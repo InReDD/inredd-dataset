@@ -1,0 +1,127 @@
+{
+  "annotations": [
+    {
+      "instanceUID": "2.25.220666033432917172449955326947995706670",
+      "blocks": [
+        {
+          "code": 0,
+          "description": "",
+          "states": [
+            "Ed"
+          ],
+          "points": [
+            {
+              "x": 204,
+              "y": 94
+            },
+            {
+              "x": 204,
+              "y": 1301
+            },
+            {
+              "x": 2630,
+              "y": 1301
+            },
+            {
+              "x": 2630,
+              "y": 94
+            }
+          ],
+          "mask": []
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "BOUNDING_BOX_Maior": "BOUNDING BOX Maior",
+      "children": [
+        {
+          "Ed": "Edêntulo"
+        },
+        {
+          "De": "Dentado"
+        },
+        {
+          "Me": "Maxila edêntula"
+        },
+        {
+          "Mne": "Mandíbula edêntula"
+        }
+      ]
+    },
+    {
+      "BOUNDING_BOX_Menor": "BOUNDING BOX Menor",
+      "children": [
+        {
+          "DA": "DENTES ARTIFICIAIS",
+          "children": [
+            {
+              "Im": "Implante"
+            },
+            {
+              "Cp": "Coroa protética unitária"
+            },
+            {
+              "P": "Pôntico"
+            }
+          ]
+        },
+        {
+          "DN": "DENTES NATURAIS",
+          "children": [
+            {
+              "H": "Hígido"
+            },
+            {
+              "Rr": "Raiz Residual"
+            },
+            {
+              "M3i": "3º molar Impactado"
+            },
+            {
+              "M3f": "3º molar em formação"
+            },
+            {
+              "Te": "Tratamento endodôntico"
+            },
+            {
+              "Ri": "Retentor intrarradicular"
+            },
+            {
+              "Dc": "Destruição coronária"
+            },
+            {
+              "Di": "Desgaste incisal"
+            },
+            {
+              "C": "Carie"
+            },
+            {
+              "R": "Restaurado"
+            },
+            {
+              "I": "Impactado"
+            }
+          ]
+        },
+        {
+          "DM": "DENTES MISTOS",
+          "children": [
+            {
+              "TeM": "Tratamento endodôntico"
+            },
+            {
+              "RiM": "Retentor intrarradicular"
+            },
+            {
+              "CpuM": "Coroa protética unitária"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "userId": 5,
+  "studyUID": "2.25.220666033432917172449955326947995706670"
+}

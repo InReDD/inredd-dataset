@@ -1,0 +1,301 @@
+{
+    "annotations": [
+        {
+            "instanceUID": "2.25.276993279317916762403290313268068791878",
+            "blocks": [
+                {
+                    "code": 33,
+                    "description": "",
+                    "states": [
+                        "Di",
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1470,
+                            "y": 584
+                        },
+                        {
+                            "x": 1470,
+                            "y": 1155
+                        },
+                        {
+                            "x": 2079,
+                            "y": 1155
+                        },
+                        {
+                            "x": 2079,
+                            "y": 584
+                        }
+                    ],
+                    "mask": [
+                        {
+                            "x": 1770,
+                            "y": 668
+                        },
+                        {
+                            "x": 1769,
+                            "y": 667
+                        },
+                        {
+                            "x": 1714,
+                            "y": 667
+                        },
+                        {
+                            "x": 1704,
+                            "y": 669
+                        },
+                        {
+                            "x": 1698,
+                            "y": 674
+                        },
+                        {
+                            "x": 1470,
+                            "y": 705
+                        },
+                        {
+                            "x": 1516,
+                            "y": 884
+                        },
+                        {
+                            "x": 1516,
+                            "y": 886
+                        },
+                        {
+                            "x": 1562,
+                            "y": 1076
+                        },
+                        {
+                            "x": 1643,
+                            "y": 1149
+                        },
+                        {
+                            "x": 1683,
+                            "y": 1155
+                        },
+                        {
+                            "x": 1723,
+                            "y": 1120
+                        },
+                        {
+                            "x": 1762,
+                            "y": 1086
+                        },
+                        {
+                            "x": 1762,
+                            "y": 1030
+                        },
+                        {
+                            "x": 1793,
+                            "y": 991
+                        },
+                        {
+                            "x": 1856,
+                            "y": 826
+                        },
+                        {
+                            "x": 1841,
+                            "y": 789
+                        },
+                        {
+                            "x": 1929,
+                            "y": 788
+                        },
+                        {
+                            "x": 2079,
+                            "y": 740
+                        },
+                        {
+                            "x": 2069,
+                            "y": 699
+                        },
+                        {
+                            "x": 2050,
+                            "y": 636
+                        },
+                        {
+                            "x": 2038,
+                            "y": 601
+                        },
+                        {
+                            "x": 2031,
+                            "y": 584
+                        }
+                    ],
+                    "original": {
+                        "code": 34,
+                        "description": "",
+                        "states": [
+                            "R"
+                        ],
+                        "points": [
+                            {
+                                "x": 1539,
+                                "y": 709
+                            },
+                            {
+                                "x": 1539,
+                                "y": 1007
+                            },
+                            {
+                                "x": 1643,
+                                "y": 1007
+                            },
+                            {
+                                "x": 1643,
+                                "y": 709
+                            }
+                        ],
+                        "mask": [],
+                        "userId": "11"
+                    }
+                },
+                {
+                    "code": 43,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1224,
+                            "y": 707
+                        },
+                        {
+                            "x": 1224,
+                            "y": 1009
+                        },
+                        {
+                            "x": 1339,
+                            "y": 1009
+                        },
+                        {
+                            "x": 1339,
+                            "y": 707
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 0,
+                    "description": "",
+                    "states": [
+                        "Me"
+                    ],
+                    "points": [
+                        {
+                            "x": 296,
+                            "y": 58
+                        },
+                        {
+                            "x": 296,
+                            "y": 1320
+                        },
+                        {
+                            "x": 2605,
+                            "y": 1320
+                        },
+                        {
+                            "x": 2605,
+                            "y": 58
+                        }
+                    ],
+                    "mask": []
+                }
+                
+            ]
+        }
+    ],
+    "representation": [
+        {
+            "BOUNDING_BOX_Maior": "BOUNDING BOX Maior",
+            "children": [
+                {
+                    "Ed": "Edêntulo"
+                },
+                {
+                    "De": "Dentado"
+                },
+                {
+                    "Me": "Maxila edêntula"
+                },
+                {
+                    "Mne": "Mandíbula edêntula"
+                }
+            ]
+        },
+        {
+            "BOUNDING_BOX_Menor": "BOUNDING BOX Menor",
+            "children": [
+                {
+                    "DA": "DENTES ARTIFICIAIS",
+                    "children": [
+                        {
+                            "Im": "Implante"
+                        },
+                        {
+                            "Cp": "Coroa protética unitária"
+                        },
+                        {
+                            "P": "Pôntico"
+                        }
+                    ]
+                },
+                {
+                    "DN": "DENTES NATURAIS",
+                    "children": [
+                        {
+                            "H": "Hígido"
+                        },
+                        {
+                            "Rr": "Raiz Residual"
+                        },
+                        {
+                            "M3i": "3º molar Impactado"
+                        },
+                        {
+                            "M3f": "3º molar em formação"
+                        },
+                        {
+                            "Te": "Tratamento endodôntico"
+                        },
+                        {
+                            "Ri": "Retentor intrarradicular"
+                        },
+                        {
+                            "Dc": "Destruição coronária"
+                        },
+                        {
+                            "Di": "Desgaste incisal"
+                        },
+                        {
+                            "C": "Carie"
+                        },
+                        {
+                            "R": "Restaurado"
+                        },
+                        {
+                            "I": "Impactado"
+                        }
+                    ]
+                },
+                {
+                    "DM": "DENTES MISTOS",
+                    "children": [
+                        {
+                            "TeM": "Tratamento endodôntico"
+                        },
+                        {
+                            "RiM": "Retentor intrarradicular"
+                        },
+                        {
+                            "CpuM": "Coroa protética unitária"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "userId": 5,
+    "studyUID": "2.25.276993279317916762403290313268068791878"
+}

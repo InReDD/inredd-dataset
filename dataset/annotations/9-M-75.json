@@ -1,0 +1,127 @@
+{
+    "annotations": [
+        {
+            "blocks": [
+                {
+                    "code": 0,
+                    "description": "",
+                    "mask": [],
+                    "points": [
+                        {
+                            "x": 167,
+                            "y": 115
+                        },
+                        {
+                            "x": 202,
+                            "y": 1345
+                        },
+                        {
+                            "x": 2684,
+                            "y": 1345
+                        },
+                        {
+                            "x": 2680,
+                            "y": 115
+                        }
+                    ],
+                    "states": [
+                        "Ed"
+                    ]
+                }
+            ],
+            "instanceUID": "2.25.149114693879246427039285455405362294580"
+        }
+    ],
+    "representation": [
+        {
+            "BOUNDING_BOX_Maior": "BOUNDING BOX Maior",
+            "children": [
+                {
+                    "Ed": "Ed\u00eantulo"
+                },
+                {
+                    "De": "Dentado"
+                },
+                {
+                    "Me": "Maxila ed\u00eantula"
+                },
+                {
+                    "Mne": "Mand\u00edbula ed\u00eantula"
+                }
+            ]
+        },
+        {
+            "BOUNDING_BOX_Menor": "BOUNDING BOX Menor",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "Im": "Implante"
+                        },
+                        {
+                            "Cp": "Coroa prot\u00e9tica unit\u00e1ria"
+                        },
+                        {
+                            "P": "P\u00f4ntico"
+                        }
+                    ],
+                    "DA": "DENTES ARTIFICIAIS"
+                },
+                {
+                    "children": [
+                        {
+                            "H": "H\u00edgido"
+                        },
+                        {
+                            "Rr": "Raiz Residual"
+                        },
+                        {
+                            "M3i": "3\u00ba molar Impactado"
+                        },
+                        {
+                            "M3f": "3\u00ba molar em forma\u00e7\u00e3o"
+                        },
+                        {
+                            "Te": "Tratamento endod\u00f4ntico"
+                        },
+                        {
+                            "Ri": "Retentor intrarradicular"
+                        },
+                        {
+                            "Dc": "Destrui\u00e7\u00e3o coron\u00e1ria"
+                        },
+                        {
+                            "Di": "Desgaste incisal"
+                        },
+                        {
+                            "C": "Carie"
+                        },
+                        {
+                            "R": "Restaurado"
+                        },
+                        {
+                            "I": "Impactado"
+                        }
+                    ],
+                    "DN": "DENTES NATURAIS"
+                },
+                {
+                    "children": [
+                        {
+                            "TeM": "Tratamento endod\u00f4ntico"
+                        },
+                        {
+                            "RiM": "Retentor intrarradicular"
+                        },
+                        {
+                            "CpuM": "Coroa prot\u00e9tica unit\u00e1ria"
+                        }
+                    ],
+                    "DM": "DENTES MISTOS"
+                }
+            ]
+        }
+    ],
+    "studyUID": "2.25.149114693879246427039285455405362294580",
+    "userId": 5
+}

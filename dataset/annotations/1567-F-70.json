@@ -1,0 +1,654 @@
+{
+    "annotations": [
+        {
+            "instanceUID": "2.25.247652932272836407506937652835255543214",
+            "blocks": [
+                {
+                    "code": 16,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 832,
+                            "y": 586
+                        },
+                        {
+                            "x": 832,
+                            "y": 911
+                        },
+                        {
+                            "x": 995,
+                            "y": 911
+                        },
+                        {
+                            "x": 995,
+                            "y": 586
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 15,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1003,
+                            "y": 590
+                        },
+                        {
+                            "x": 1003,
+                            "y": 920
+                        },
+                        {
+                            "x": 1080,
+                            "y": 920
+                        },
+                        {
+                            "x": 1080,
+                            "y": 590
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 14,
+                    "description": "",
+                    "states": [
+                        "R",
+                        "C"
+                    ],
+                    "points": [
+                        {
+                            "x": 1084,
+                            "y": 607
+                        },
+                        {
+                            "x": 1084,
+                            "y": 899
+                        },
+                        {
+                            "x": 1174,
+                            "y": 899
+                        },
+                        {
+                            "x": 1174,
+                            "y": 607
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 13,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1164,
+                            "y": 590
+                        },
+                        {
+                            "x": 1164,
+                            "y": 890
+                        },
+                        {
+                            "x": 1258,
+                            "y": 890
+                        },
+                        {
+                            "x": 1258,
+                            "y": 590
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 12,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1258,
+                            "y": 601
+                        },
+                        {
+                            "x": 1258,
+                            "y": 893
+                        },
+                        {
+                            "x": 1333,
+                            "y": 893
+                        },
+                        {
+                            "x": 1333,
+                            "y": 601
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 11,
+                    "description": "",
+                    "states": [
+                        "Te",
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1330,
+                            "y": 601
+                        },
+                        {
+                            "x": 1330,
+                            "y": 897
+                        },
+                        {
+                            "x": 1441,
+                            "y": 897
+                        },
+                        {
+                            "x": 1441,
+                            "y": 601
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 21,
+                    "description": "",
+                    "states": [
+                        "CpuM",
+                        "RiM",
+                        "TeM"
+                    ],
+                    "points": [
+                        {
+                            "x": 1454,
+                            "y": 607
+                        },
+                        {
+                            "x": 1454,
+                            "y": 893
+                        },
+                        {
+                            "x": 1549,
+                            "y": 893
+                        },
+                        {
+                            "x": 1549,
+                            "y": 607
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 22,
+                    "description": "",
+                    "states": [
+                        "P"
+                    ],
+                    "points": [
+                        {
+                            "x": 1554,
+                            "y": 671
+                        },
+                        {
+                            "x": 1554,
+                            "y": 891
+                        },
+                        {
+                            "x": 1629,
+                            "y": 891
+                        },
+                        {
+                            "x": 1629,
+                            "y": 671
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 23,
+                    "description": "",
+                    "states": [
+                        "CpuM",
+                        "RiM",
+                        "TeM"
+                    ],
+                    "points": [
+                        {
+                            "x": 1634,
+                            "y": 574
+                        },
+                        {
+                            "x": 1634,
+                            "y": 916
+                        },
+                        {
+                            "x": 1717,
+                            "y": 916
+                        },
+                        {
+                            "x": 1717,
+                            "y": 574
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 24,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1725,
+                            "y": 605
+                        },
+                        {
+                            "x": 1725,
+                            "y": 918
+                        },
+                        {
+                            "x": 1806,
+                            "y": 918
+                        },
+                        {
+                            "x": 1806,
+                            "y": 605
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 25,
+                    "description": "",
+                    "states": [
+                        "Te",
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1804,
+                            "y": 617
+                        },
+                        {
+                            "x": 1804,
+                            "y": 928
+                        },
+                        {
+                            "x": 1889,
+                            "y": 928
+                        },
+                        {
+                            "x": 1889,
+                            "y": 617
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 26,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1873,
+                            "y": 615
+                        },
+                        {
+                            "x": 1873,
+                            "y": 937
+                        },
+                        {
+                            "x": 2017,
+                            "y": 937
+                        },
+                        {
+                            "x": 2017,
+                            "y": 615
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 27,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1993,
+                            "y": 617
+                        },
+                        {
+                            "x": 1993,
+                            "y": 936
+                        },
+                        {
+                            "x": 2130,
+                            "y": 936
+                        },
+                        {
+                            "x": 2130,
+                            "y": 617
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 34,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1714,
+                            "y": 955
+                        },
+                        {
+                            "x": 1714,
+                            "y": 1260
+                        },
+                        {
+                            "x": 1812,
+                            "y": 1260
+                        },
+                        {
+                            "x": 1812,
+                            "y": 955
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 32,
+                    "description": "",
+                    "states": [
+                        "H"
+                    ],
+                    "points": [
+                        {
+                            "x": 1535,
+                            "y": 936
+                        },
+                        {
+                            "x": 1535,
+                            "y": 1210
+                        },
+                        {
+                            "x": 1606,
+                            "y": 1210
+                        },
+                        {
+                            "x": 1606,
+                            "y": 936
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 31,
+                    "description": "",
+                    "states": [
+                        "Di"
+                    ],
+                    "points": [
+                        {
+                            "x": 1454,
+                            "y": 938
+                        },
+                        {
+                            "x": 1454,
+                            "y": 1216
+                        },
+                        {
+                            "x": 1524,
+                            "y": 1216
+                        },
+                        {
+                            "x": 1524,
+                            "y": 938
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 41,
+                    "description": "",
+                    "states": [
+                        "H"
+                    ],
+                    "points": [
+                        {
+                            "x": 1368,
+                            "y": 936
+                        },
+                        {
+                            "x": 1368,
+                            "y": 1203
+                        },
+                        {
+                            "x": 1435,
+                            "y": 1203
+                        },
+                        {
+                            "x": 1435,
+                            "y": 936
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 42,
+                    "description": "",
+                    "states": [
+                        "H"
+                    ],
+                    "points": [
+                        {
+                            "x": 1289,
+                            "y": 920
+                        },
+                        {
+                            "x": 1289,
+                            "y": 1222
+                        },
+                        {
+                            "x": 1374,
+                            "y": 1222
+                        },
+                        {
+                            "x": 1374,
+                            "y": 920
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 43,
+                    "description": "",
+                    "states": [
+                        "H"
+                    ],
+                    "points": [
+                        {
+                            "x": 1205,
+                            "y": 924
+                        },
+                        {
+                            "x": 1163,
+                            "y": 1223
+                        },
+                        {
+                            "x": 1273,
+                            "y": 1239
+                        },
+                        {
+                            "x": 1315,
+                            "y": 940
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 44,
+                    "description": "",
+                    "states": [
+                        "R"
+                    ],
+                    "points": [
+                        {
+                            "x": 1103,
+                            "y": 920
+                        },
+                        {
+                            "x": 1074,
+                            "y": 1222
+                        },
+                        {
+                            "x": 1172,
+                            "y": 1231
+                        },
+                        {
+                            "x": 1201,
+                            "y": 930
+                        }
+                    ],
+                    "mask": []
+                },
+                {
+                    "code": 0,
+                    "description": "",
+                    "states": [
+                        "De"
+                    ],
+                    "points": [
+                        {
+                            "x": 184,
+                            "y": 377
+                        },
+                        {
+                            "x": 184,
+                            "y": 1376
+                        },
+                        {
+                            "x": 2665,
+                            "y": 1376
+                        },
+                        {
+                            "x": 2665,
+                            "y": 377
+                        }
+                    ],
+                    "mask": []
+                }
+            ]
+        }
+    ],
+    "representation": [
+        {
+            "BOUNDING_BOX_Maior": "BOUNDING BOX Maior",
+            "children": [
+                {
+                    "Ed": "Edêntulo"
+                },
+                {
+                    "De": "Dentado"
+                },
+                {
+                    "Me": "Maxila edêntula"
+                },
+                {
+                    "Mne": "Mandíbula edêntula"
+                }
+            ]
+        },
+        {
+            "BOUNDING_BOX_Menor": "BOUNDING BOX Menor",
+            "children": [
+                {
+                    "DA": "DENTES ARTIFICIAIS",
+                    "children": [
+                        {
+                            "Im": "Implante"
+                        },
+                        {
+                            "Cp": "Coroa protética unitária"
+                        },
+                        {
+                            "P": "Pôntico"
+                        }
+                    ]
+                },
+                {
+                    "DN": "DENTES NATURAIS",
+                    "children": [
+                        {
+                            "H": "Hígido"
+                        },
+                        {
+                            "Rr": "Raiz Residual"
+                        },
+                        {
+                            "M3i": "3º molar Impactado"
+                        },
+                        {
+                            "M3f": "3º molar em formação"
+                        },
+                        {
+                            "Te": "Tratamento endodôntico"
+                        },
+                        {
+                            "Ri": "Retentor intrarradicular"
+                        },
+                        {
+                            "Dc": "Destruição coronária"
+                        },
+                        {
+                            "Di": "Desgaste incisal"
+                        },
+                        {
+                            "C": "Carie"
+                        },
+                        {
+                            "R": "Restaurado"
+                        },
+                        {
+                            "I": "Impactado"
+                        }
+                    ]
+                },
+                {
+                    "DM": "DENTES MISTOS",
+                    "children": [
+                        {
+                            "TeM": "Tratamento endodôntico"
+                        },
+                        {
+                            "RiM": "Retentor intrarradicular"
+                        },
+                        {
+                            "CpuM": "Coroa protética unitária"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "userId": 0,
+    "studyUID": "2.25.247652932272836407506937652835255543214"
+}

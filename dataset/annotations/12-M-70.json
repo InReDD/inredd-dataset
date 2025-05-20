@@ -1,0 +1,184 @@
+{
+    "annotations": [
+        {
+            "blocks": [],
+            "instanceUID": null
+        },
+        {
+            "blocks": [
+                {
+                    "code": 24,
+                    "description": "",
+                    "mask": [],
+                    "points": [
+                        {
+                            "x": 1608,
+                            "y": 342
+                        },
+                        {
+                            "x": 1608,
+                            "y": 507
+                        },
+                        {
+                            "x": 1675,
+                            "y": 507
+                        },
+                        {
+                            "x": 1675,
+                            "y": 342
+                        }
+                    ],
+                    "states": [
+                        "Rr",
+                        "Te"
+                    ]
+                },
+                {
+                    "code": 28,
+                    "description": "",
+                    "mask": [],
+                    "points": [
+                        {
+                            "x": 1979,
+                            "y": 357
+                        },
+                        {
+                            "x": 1950,
+                            "y": 634
+                        },
+                        {
+                            "x": 2086,
+                            "y": 646
+                        },
+                        {
+                            "x": 2111,
+                            "y": 371
+                        }
+                    ],
+                    "states": [
+                        "R"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "description": "",
+                    "mask": [],
+                    "points": [
+                        {
+                            "x": 250,
+                            "y": 126
+                        },
+                        {
+                            "x": 250,
+                            "y": 1383
+                        },
+                        {
+                            "x": 2667,
+                            "y": 1387
+                        },
+                        {
+                            "x": 2709,
+                            "y": 121
+                        }
+                    ],
+                    "states": [
+                        "Mne"
+                    ]
+                }
+            ],
+            "instanceUID": "2.25.99854526873290603186027821524875064673"
+        }
+    ],
+    "representation": [
+        {
+            "BOUNDING_BOX_Maior": "BOUNDING BOX Maior",
+            "children": [
+                {
+                    "Ed": "Ed\u00eantulo"
+                },
+                {
+                    "De": "Dentado"
+                },
+                {
+                    "Me": "Maxila ed\u00eantula"
+                },
+                {
+                    "Mne": "Mand\u00edbula ed\u00eantula"
+                }
+            ]
+        },
+        {
+            "BOUNDING_BOX_Menor": "BOUNDING BOX Menor",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "Im": "Implante"
+                        },
+                        {
+                            "Cp": "Coroa prot\u00e9tica unit\u00e1ria"
+                        },
+                        {
+                            "P": "P\u00f4ntico"
+                        }
+                    ],
+                    "DA": "DENTES ARTIFICIAIS"
+                },
+                {
+                    "children": [
+                        {
+                            "H": "H\u00edgido"
+                        },
+                        {
+                            "Rr": "Raiz Residual"
+                        },
+                        {
+                            "M3i": "3\u00ba molar Impactado"
+                        },
+                        {
+                            "M3f": "3\u00ba molar em forma\u00e7\u00e3o"
+                        },
+                        {
+                            "Te": "Tratamento endod\u00f4ntico"
+                        },
+                        {
+                            "Ri": "Retentor intrarradicular"
+                        },
+                        {
+                            "Dc": "Destrui\u00e7\u00e3o coron\u00e1ria"
+                        },
+                        {
+                            "Di": "Desgaste incisal"
+                        },
+                        {
+                            "C": "Carie"
+                        },
+                        {
+                            "R": "Restaurado"
+                        },
+                        {
+                            "I": "Impactado"
+                        }
+                    ],
+                    "DN": "DENTES NATURAIS"
+                },
+                {
+                    "children": [
+                        {
+                            "TeM": "Tratamento endod\u00f4ntico"
+                        },
+                        {
+                            "RiM": "Retentor intrarradicular"
+                        },
+                        {
+                            "CpuM": "Coroa prot\u00e9tica unit\u00e1ria"
+                        }
+                    ],
+                    "DM": "DENTES MISTOS"
+                }
+            ]
+        }
+    ],
+    "studyUID": "2.25.99854526873290603186027821524875064673",
+    "userId": 5
+}
